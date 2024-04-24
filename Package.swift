@@ -43,8 +43,8 @@ let package = Package(
   dependencies: [
     .package(
       name: "AppAuth",
-      url: "https://github.com/openid/AppAuth-iOS.git",
-      from: "1.7.3"),
+      url: "https://github.com/rabbit-rabbit-rabbit/AppAuth-iOS.git",
+      from: "1.7.5"),
     .package(
       name: "GTMAppAuth",
       url: "https://github.com/google/GTMAppAuth.git",
